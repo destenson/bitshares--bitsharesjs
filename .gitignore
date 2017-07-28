@@ -1,5 +1,7 @@
+.idea/
+node_modules/
+dist/
+es/
+out/
 .npmrc
-npm-debug.log
-node_modules
-dist
-es
+*.log
